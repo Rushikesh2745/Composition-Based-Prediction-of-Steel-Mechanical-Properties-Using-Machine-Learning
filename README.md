@@ -37,7 +37,7 @@ The performance of the trained models is evaluated using various metrics, such a
 
 Detailed results and insights gained from the models are documented in this section, providing transparency and allowing for comparisons between different approaches.
 
-<img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/a55e4c9a-a25a-4f7b-a861-05b9bad9b4d7" />
+<img width="370" height="420" alt="image" src="https://github.com/user-attachments/assets/a55e4c9a-a25a-4f7b-a861-05b9bad9b4d7" />
 
 ## Future Work
 
